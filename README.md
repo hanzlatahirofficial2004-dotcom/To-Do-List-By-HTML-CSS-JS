@@ -1,6 +1,8 @@
 # 📝 Dynamic Todo Application
 
 A sleek, modern, and highly responsive **Todo Application** built using pure web technologies. This project focuses on efficient DOM manipulation, data structure management, and clean layout design using CSS Grid.
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/429455f7-7897-49c4-9fe7-987483d14409" />
+
 
 ---
 

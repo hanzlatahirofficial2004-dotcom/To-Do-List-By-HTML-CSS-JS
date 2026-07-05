@@ -12,6 +12,8 @@ A sleek, modern, and highly responsive **Todo Application** built using pure web
 * **Interactive Task Management:** Seamlessly add tasks using the "Add" button or by pressing the `Enter` key.
 * **Instant State Updates:** Efficiently manages data state using JavaScript arrays and immediately re-renders the UI on adding or deleting items.
 * **Input Validation:** Built-in safeguards to prevent adding empty tasks or incomplete dates.
+* <img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/683b59d6-819d-4409-a1ed-33279b547289" />
+
 
 ---
 

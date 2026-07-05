@@ -29,6 +29,8 @@ The app initializes with sample tasks tailored around key milestones in full-sta
 * **Structure:** HTML5 (Semantic Forms and Containers)
 * **Styling:** CSS3 (CSS Grid, Hover Transitions, Box-sizing overrides, and Clean Typography)
 * **Scripting:** Vanilla JavaScript (ES6+ array methods, event listeners, keyboard event capture, and dynamic innerHTML management)
+* <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/ab2ed1f1-4b9a-404a-a94c-9268b1d5178a" />
+
 
 ---
 
